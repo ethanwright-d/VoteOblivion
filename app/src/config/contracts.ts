@@ -1,5 +1,5 @@
 // Auto-generated from deployments/sepolia/VoteOblivion.json. Update after deploying to Sepolia.
-export const CONTRACT_ADDRESS = '0x0000000000000000000000000000000000000000' as const;
+export const CONTRACT_ADDRESS = '0x2fbe8E93a1fE8Fc714f0aF72f0D5fb8d2c295A3F' as const;
 
 export const CONTRACT_ABI = [
   {
